@@ -7,7 +7,7 @@ public class Main {
 
        Sun sun=new Sun();
        sun.color="red";
-       sun.size=12334;
+       sun.size="12334";
 
 
     }
